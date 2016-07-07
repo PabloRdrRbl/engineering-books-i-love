@@ -8,7 +8,7 @@ This is a list of some of the engineering books that I considered interesting. (
 * Computational Science and Engineering - Gilbert Strang
 * Numerical Linear Algebra - Lloyd N. Trefethen and David Bau, III
 
-## Aerodynamics
+## Aerodynamics books
 * Low-Speed Aerodynamics - Joseph Katz and Allen Plotkin
 * Fundamentals of Aerodynamics - John D. Anderson
 
@@ -19,8 +19,8 @@ This is a list of some of the engineering books that I considered interesting. (
 * Mastering Julia - Malcolm Sherrington
 * Quantitative Economics wit Julia - Thomas Sargent and John Stachurski
 
-## High Performance Computing
+## High Performance Computing books
 * Performance Optimization of Numerically Intensive Codes - Stefan Goedecker and Adolfy 
 
-## Emacs
+## Emacs books
 * Mastering Emacs - Mickey Petersen
